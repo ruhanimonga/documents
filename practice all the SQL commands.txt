@@ -1,0 +1,27 @@
+=============practice in both CLI (sql client) editor   & workbench================
+show
+use
+ create
+desc/describe
+insert
+delete
+drop 
+truncate
+Alias(as)
+where condition.
+how to create a backup table??
+-------------------------------------------
+alter 
+-add column
+-modify column
+-drop column
+-rename column
+---------------------------------------------
+practice:-
+=========
+create a database>> create a table>>insert>>delete>>truncate>>drop>>
+
+===============================================
+pratice all the  commands from  ctrl+A to ctrl+Z
+
+-----------------------------------------------
